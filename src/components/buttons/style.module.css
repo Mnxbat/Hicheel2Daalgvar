@@ -1,0 +1,30 @@
+.button-White{
+    background-color: black;
+}
+.button-Gerne{
+    background-color: blue;
+}
+.button-side{
+    background-color: black;
+    color: white;
+
+}
+.button-sidesub{
+    background-color: rgb(51, 48, 48);
+}
+.button-sidesublive{
+    background-color: rgb(51,48,48);
+}
+.img {
+    width: 20px;
+    height: 20px;
+}
+
+.displayNone{ 
+    display: none;
+}
+
+button{
+    padding: 0px 10px;
+    background-color: none;
+}
